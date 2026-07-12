@@ -1,0 +1,10 @@
+[
+  {
+    "script_version": "1",
+    "uuid": "armbian-2026-rock5itx-01",
+    "name": "Armbian 2026 Current (Radxa ROCK 5 ITX)",
+    "img": "https://dl.armbian.com/rock-5-itx/Resolute_vendor_minimal",
+    "description": "Latest 2026 Armbian Stable Build loaded directly from official mirrors."
+  }
+]
+
