@@ -1,7 +1,7 @@
 [
   {
-    "uuid": "armbian-2026-rock5itx-01",
-    "name": "Armbian 2026 Current (Radxa ROCK 5 ITX)",
-    "url": "https://githubusercontent.com/rjizz-tech/radxa/"
+    "uuid": "b8c57e69f21e4abca9236cf1e40886b2",
+    "name": "Armbian Debian 13 Trixie Minimal (ROCK 5 ITX)",
+    "url": "https://YOUR-MIRROR-HOST/roobi/armbian-rock-5-itx-trixie.json"
   }
 ]
