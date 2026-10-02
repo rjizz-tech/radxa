@@ -1,0 +1,28 @@
+{
+  "script_version": "1",
+  "uuid": "b8c57e69f21e4abca9236cf1e40886b2",
+  "name": "Armbian Debian 13 Trixie Minimal (ROCK 5 ITX)",
+  "img": "https://roobi.radxa.com/pic/armbian.svg",
+  "description": {
+    "en": "Armbian 26.8.6 for Radxa ROCK 5 ITX. Debian 13 (Trixie), minimal command-line image, ARM64, vendor kernel 6.1.172. Built and maintained by Armbian; software retains its respective upstream copyrights and licenses. This custom ROOBI source writes the disk image only and does not update SPI firmware. A compatible bootloader is required, especially for NVMe/SATA boot. Installation erases the selected target disk. https://www.armbian.com/rock-5-itx/"
+  },
+  "version": "26.8.6 / Debian 13 Trixie / vendor 6.1.172",
+  "author": "Armbian",
+  "date": "2026-09-13",
+  "download": [
+    {
+      "file_name": "install.img.xz",
+      "size": 314817708,
+      "urls": [
+        "https://au.sbcmirror.org/armbian-dl/rock-5-itx/archive/Armbian_26.8.6_Rock-5-itx_trixie_vendor_6.1.172_minimal.img.xz"
+      ],
+      "md5": "720a72a90c3766bc19b2a89feacb4ca4"
+    }
+  ],
+  "scripts": [
+    {
+      "type": "auto",
+      "text": "start"
+    }
+  ]
+}
