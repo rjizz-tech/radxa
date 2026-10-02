@@ -1,21 +1,7 @@
 [
   {
-    "script_version": "1",
     "uuid": "armbian-2026-rock5itx-01",
     "name": "Armbian 2026 Current (Radxa ROCK 5 ITX)",
-    "description": "Latest 2026 Armbian Stable Build loaded directly from official mirrors.",
-    "version": "26.8.6",
-    "author": "Armbian Community",
-    "date": "2026-10-02",
-    "downloads": [
-      {
-        "file_name": "Armbian_26.8.6_Rock-5-itx_resolute_vendor_6.1.172_minimal.img.xz",
-        "size": 345678901,
-        "urls": [
-          "https://armbian.com"
-        ],
-        "sha256": "941c28199f8d3e6d7933dcd7d37c304f72c49bf5db42fa2028df787070b9d780"
-      }
-    ]
+    "url": "https://githubusercontent.com"
   }
 ]
