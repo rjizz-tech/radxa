@@ -9,12 +9,10 @@
     "date": "2026-10-02",
     "downloads": [
       {
-        "file_name": "Armbian_Resolute_vendor_minimal.img.xz",
-        "size": 345678901,
+        "file_name": "Armbian_26.8.6_Rock-5-itx_resolute_vendor_6.1.172_minimal.img.xz",
         "urls": [
-          "https://armbian.com"
+          "https://au.sbcmirror.org/armbian-dl/rock-5-itx/archive/"
         ],
-        "md5": "d41d8cd98f00b204e9800998ecf8427e"
       }
     ]
   }
